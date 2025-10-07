@@ -1,0 +1,14 @@
+{
+  "name": "backend-course-2025-3",
+  "version": "1.0.0",
+  "description": "����������� ������ � Node.js",
+  "main": "main.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "���������",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^14.0.1"
+  }
+}
